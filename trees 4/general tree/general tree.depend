@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1473062504 source:c:\users\welcome\desktop\trees 4\general tree\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<cstdio>
+

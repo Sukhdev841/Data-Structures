@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471445427 source:g:\c++ new\fixed number of pointers\main.cpp
+	<iostream>
+	"fnode.h"
+
+1471445382 g:\c++ new\fixed number of pointers\fnode.h
+	<iostream>
+

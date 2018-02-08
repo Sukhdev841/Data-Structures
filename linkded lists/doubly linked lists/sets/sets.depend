@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1471435881 source:g:\c++ new\sets\main.cpp
+	<iostream>
+	"mnode.h"
+
+1471437706 g:\c++ new\sets\mnode.h
+	<iostream>
+
+1471435881 source:c:\users\welcome\desktop\doubly linked lists\sets\main.cpp
+	<iostream>
+	"mnode.h"
+
+1471437706 c:\users\welcome\desktop\doubly linked lists\sets\mnode.h
+	<iostream>
+

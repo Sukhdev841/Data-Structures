@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1473047542 source:c:\users\welcome\desktop\trees 4\spit general tree\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<cstdio>
+

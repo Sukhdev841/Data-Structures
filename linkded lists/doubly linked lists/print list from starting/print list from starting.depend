@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1471453697 source:g:\c++ new\print list from starting\main.cpp
+	<iostream>
+	"fnode.h"
+
+1471454982 g:\c++ new\print list from starting\fnode.h
+	<iostream>
+	"stack.h"
+
+1471454087 g:\c++ new\print list from starting\stack.h
+	<iostream>
+
+1471455270 source:c:\users\welcome\desktop\doubly linked lists\print list from starting\main.cpp
+	<iostream>
+	"fnode.h"
+
+1471454982 c:\users\welcome\desktop\doubly linked lists\print list from starting\fnode.h
+	<iostream>
+	"stack.h"
+
+1471454087 c:\users\welcome\desktop\doubly linked lists\print list from starting\stack.h
+	<iostream>
+

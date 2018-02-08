@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472123476 source:c:\users\welcome\desktop\binary trees 3\print dlr iteratively\main.cpp
+	<iostream>
+	"bt.h"
+
+1472124458 c:\users\welcome\desktop\binary trees 3\print dlr iteratively\bt.h
+	<iostream>
+	<cctype>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

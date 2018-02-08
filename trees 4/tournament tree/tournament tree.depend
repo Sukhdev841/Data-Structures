@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472874846 source:c:\users\welcome\desktop\trees 4\tournament tree\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+

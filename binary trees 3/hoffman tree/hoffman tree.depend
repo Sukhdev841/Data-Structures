@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472446251 source:c:\users\welcome\desktop\binary trees 3\hoffman tree\main.cpp
+	<iostream>
+	"node.h"
+	<cstdlib>
+	<cstdio>
+
+1472284073 c:\users\welcome\desktop\binary trees 3\hoffman tree\node.h
+	<iostream>
+	<cstring>
+

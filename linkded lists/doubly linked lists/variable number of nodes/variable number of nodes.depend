@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1471446883 source:g:\c++ new\variable number of nodes\main.cpp
+	<iostream>
+	"vnode.h"
+
+1471446850 g:\c++ new\variable number of nodes\vnode.h
+	<iostream>
+
+1471446883 source:c:\users\welcome\desktop\doubly linked lists\variable number of nodes\main.cpp
+	<iostream>
+	"vnode.h"
+
+1471446850 c:\users\welcome\desktop\doubly linked lists\variable number of nodes\vnode.h
+	<iostream>
+

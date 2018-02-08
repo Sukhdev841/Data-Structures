@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472130023 source:c:\users\welcome\desktop\binary trees 3\kd tree\main.cpp
+	<iostream>
+	"kdtree.h"
+
+1472129869 c:\users\welcome\desktop\binary trees 3\kd tree\kdtree.h
+	<iostream>
+	<cstring>
+

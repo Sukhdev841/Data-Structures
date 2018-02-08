@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1471455675 source:g:\c++ new\print path and search\main.cpp
+	<iostream>
+	"fnode.h"
+
+1471455914 g:\c++ new\print path and search\fnode.h
+	<iostream>
+	"stack.h"
+	<cstdlib>
+
+1471454087 g:\c++ new\print path and search\stack.h
+	<iostream>
+
+1471455675 source:c:\users\welcome\desktop\doubly linked lists\print path and search\main.cpp
+	<iostream>
+	"fnode.h"
+
+1471455914 c:\users\welcome\desktop\doubly linked lists\print path and search\fnode.h
+	<iostream>
+	"stack.h"
+	<cstdlib>
+
+1471454087 c:\users\welcome\desktop\doubly linked lists\print path and search\stack.h
+	<iostream>
+

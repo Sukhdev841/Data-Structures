@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472363906 source:c:\users\welcome\desktop\binary trees 3\avt tree\main.cpp
+	<iostream>
+	"bstree.h"
+
+1472363717 c:\users\welcome\desktop\binary trees 3\avt tree\bstree.h
+	<iostream>
+
